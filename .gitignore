@@ -1,0 +1,28 @@
+# Ignore build and debug artifacts
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Ignore logs
+*.log
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore IDE settings
+.idea/
+.vs/
